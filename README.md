@@ -1,3 +1,5 @@
+Esse projeto está muito desatualizado. Vou atualizá-lo futuramente.
+
 ## requirements
 
 ```bash
